@@ -2,6 +2,8 @@
 
 ***CISSA's annual flagship hackathon for students***
 
+Click each track below or markdown file above to view resources and explore further. 
+
 |      YEAR      | THEME           |
 |:--------------:|:----------------|
 | [2022](#2022)  | A Green Future  |
