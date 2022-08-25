@@ -1,6 +1,4 @@
-# Resources for Codebrew
-
-***Codebrew is CISSA's annual flagship hackathon for students.***
+# Resources for CISSA Hackathons
 
 Resources:
 - General
@@ -15,6 +13,9 @@ Resources:
   - [Mobile](https://github.com/cissa-unimelb/hackathon-resources/blob/main/dev-mobile.md)
 - Operations
   - [Hosting and Deployment](https://github.com/cissa-unimelb/hackathon-resources/blob/main/ops-deployment.md)
+
+# Codebrew 2022
+***Codebrew is CISSA's annual flagship hackathon for students.***
 
 Click each track below or links above to view resources and explore further. 
 
